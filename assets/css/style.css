@@ -63,6 +63,10 @@ li a{
     padding: 8px;
 }
 
+a:link {
+    color: #777777;
+  }
+
 
 #wrapper {
     width: 960px;
@@ -138,3 +142,31 @@ h3 {
     clear: both;
     overflow: auto;
 }
+
+#cat-Mouse {
+    position: relative;
+}
+
+.box {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#f5f1f1;
+    text-align: center;
+    float: left;
+    width: 275px;
+}
+
+.button {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#f5f1f1;
+    text-align: center;
+    float: left;
+    padding: 5px;
+    font-size: 12px;
+    border-color: #777777;
+    margin: 4px;
+}
+
